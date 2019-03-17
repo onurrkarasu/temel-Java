@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a5150a-7f55-4f2d-bb7b-d06c835254a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tekrarlar/Soru8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekrarlar/soru7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekrarlar/soru9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/com/ornekler/Ornek2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/com/ornekler/Ornek3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/com/ornekler/Ornek4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/com/ornekler/Ornek5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -54,8 +55,19 @@
         <option value="$PROJECT_DIR$/src/com/tekrarlar/soru7.java" />
         <option value="$PROJECT_DIR$/src/com/tekrarlar/Soru8.java" />
         <option value="$PROJECT_DIR$/src/com/tekrarlar/soru9.java" />
+        <option value="$PROJECT_DIR$/src/com/com/ornekler/Ornek1.java" />
+        <option value="$PROJECT_DIR$/src/com/com/ornekler/Ornek2.java" />
+        <option value="$PROJECT_DIR$/src/com/com/ornekler/Ornek3.java" />
+        <option value="$PROJECT_DIR$/src/com/com/ornekler/Ornek4.java" />
+        <option value="$PROJECT_DIR$/src/com/com/ornekler/Ornek5.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -68,7 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,19 +100,41 @@
             </path>
             <path>
               <item name="JavaDosyalarim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDosyalarim" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ornekler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDosyalarim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDosyalarim" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="karasuonur" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDosyalarim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDosyalarim" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tekrarlar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDosyalarim" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552859787781" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552862383726" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -122,13 +155,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.soru9">
-    <configuration name="Soru5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekrarlar.Soru5" />
+  <component name="RunManager" selected="Application.Ornek5">
+    <configuration name="Ornek1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.ornekler.Ornek1" />
       <module name="JavaDosyalarim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tekrarlar.*" />
+          <option name="PATTERN" value="com.com.ornekler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekrarlar.Soru8" />
+    <configuration name="Ornek2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.ornekler.Ornek2" />
       <module name="JavaDosyalarim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tekrarlar.*" />
+          <option name="PATTERN" value="com.com.ornekler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="soru6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekrarlar.soru6" />
+    <configuration name="Ornek3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.ornekler.Ornek3" />
       <module name="JavaDosyalarim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tekrarlar.*" />
+          <option name="PATTERN" value="com.com.ornekler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="soru7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekrarlar.soru7" />
+    <configuration name="Ornek4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.ornekler.Ornek4" />
       <module name="JavaDosyalarim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tekrarlar.*" />
+          <option name="PATTERN" value="com.com.ornekler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="soru9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekrarlar.soru9" />
+    <configuration name="Ornek5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.ornekler.Ornek5" />
       <module name="JavaDosyalarim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tekrarlar.*" />
+          <option name="PATTERN" value="com.com.ornekler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.soru9" />
-        <item itemvalue="Application.Soru8" />
-        <item itemvalue="Application.soru7" />
-        <item itemvalue="Application.soru6" />
-        <item itemvalue="Application.Soru5" />
+        <item itemvalue="Application.Ornek5" />
+        <item itemvalue="Application.Ornek4" />
+        <item itemvalue="Application.Ornek3" />
+        <item itemvalue="Application.Ornek2" />
+        <item itemvalue="Application.Ornek1" />
       </list>
     </recent_temporary>
   </component>
@@ -227,16 +260,17 @@
       <workItem from="1552481919565" duration="5643000" />
       <workItem from="1552591541885" duration="6220000" />
       <workItem from="1552833652622" duration="2722000" />
+      <workItem from="1552860022523" duration="2305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40413000" />
+    <option name="totallyTimeSpent" value="42718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12686567" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12793177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,7 +291,7 @@
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.32995737" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Database" order="5" />
@@ -315,13 +349,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/karasuonur/TekrarveWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/karasuonur/PrimitiveVeriTipleri.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
@@ -389,13 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/karasuonur/DonguYapilari.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -473,6 +493,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/ornekler/Ornek1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/ornekler/Ornek2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/karasuonur/DonguYapilari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/karasuonur/TekrarveWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/ornekler/Ornek3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/ornekler/Ornek4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/com/ornekler/Ornek5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
